@@ -1,48 +1,67 @@
-<h2 align="center">🌌 Aurora Lab — by Kiara McRae</h2>
+<h1 align="center">🌌 Aurora Lab — by Kiara McRae</h1>
 
 <p align="center">
-  <strong>UX-minded technologist</strong> exploring the intersection of <strong>human-centered design, automation, and cloud engineering.</strong><br>
-  ✨ Building systems that empower people and scale impact ✨
+  <strong>UX + Automation + Cloud</strong><br>
+  Designing systems that are as human as they are high-tech ✨
 </p>
 
 ---
 
-### 👋 Hi, I’m Kiara
-I’m currently pursuing a dual path in **Human Systems Engineering (User Experience)** and **Computer Science**, blending design psychology with technical execution to create meaningful digital systems.
+### 💻🖤 About Me
 
-🎓 **Degrees**
-- B.S. Human Systems Engineering (UX) · Arizona State University  
-- B.S. Computer Science · Georgia State University  
+Hey hey — I’m **Kiara McRae**, a UX-minded technologist, creative strategist, and builder of human-centered systems.  
+I thrive where **design, automation, and leadership** intersect — crafting experiences that are intuitive, scalable, and a little bit magical.
 
-🪴 **Certified In**
-- Google Project Management  
-- Six Sigma Green Belt  
-- UiPath Automation Developer *(in progress)*  
-- AWS Cloud Practitioner *(in progress)*  
+I’m currently pursuing a **dual degree path** in:
+- 🎓 **B.S. Human Systems Engineering (UX)** · Arizona State University  
+- 💻 **B.S. Computer Science** · Georgia State University  
+
+My background as a **Store Manager leading 30+ partners** at Starbucks taught me real-world systems thinking — how people, process, and technology interact daily.  
+Now, I’m translating that into the tech world through **UX design, cloud architecture, and process automation**.
+
+🪴 **Certified In**  
+Google Project Management · Six Sigma Green Belt · UiPath Automation Developer *(in progress)* · AWS Cloud Practitioner *(in progress)*  
 
 ---
 
 ### 🚀 Featured Project: [Aurora](https://aurorakiara.dev)
-A **cloud-native, Spotify-style platform** integrating UX design with DevOps principles.  
-Built with **Next.js · TailwindCSS · Docker · Terraform · Kubernetes**  
 
-> 🧠 Core Features  
-> • True Shuffle (Fisher–Yates algorithm)  
-> • Auto-Mix sequencing by metadata  
-> • Power BI dashboards for repeat-gap + coverage analytics  
+> A **cloud-native, Spotify-style platform** showcasing the future of UX + DevOps integration.  
+> Built with **Next.js · TailwindCSS · Docker · Terraform · Kubernetes**  
 
----
+🎧 **Highlights**
+- **True Shuffle (Fisher–Yates)** — songs never repeat until the set is complete  
+- **Auto-Mix Sequencing** — dynamically orders by mood, tempo, and metadata  
+- **Analytics Dashboard** — Power BI visualizations for repeat-gap + coverage metrics  
+- **CI/CD Ready** — GitHub Actions + Terraform + Docker for seamless deployment  
 
-### 🧩 What I’m Exploring
-- 🤖 AI-driven UX  
-- ☁️ Cloud automation  
-- 🔁 Scalable systems design  
-
-💬 Ask me about: process optimization, human-tech integration, and creative automation.  
+✨ *Aurora demonstrates my approach to design that feels alive — structured, scalable, and human.*  
 
 ---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kiarammcrae"><img src="https://img.shields.io/badge/LinkedIn-Kiara%20McRae-blue?logo=linkedin&style=flat-square"></a>
-  <a href="https://aurorakiara.dev"><img src="https://img.shields.io/badge/Portfolio-aurorakiara.dev-purple?logo=safari&style=flat-square"></a>
-</p>
+### 🧠 Projects + Builds
+
+| Project | Description | Stack |
+|:--------|:-------------|:------|
+| **Aurora** | Cloud-native UX platform integrating automation and DevOps | Next.js · Docker · Terraform · Power BI |
+| **UXMetrics** | Dashboard for tracking usability metrics + accessibility compliance | React · Flask · SQLite · Chart.js |
+| **CanopyCrawler** | Robotics prototype for rainforest monitoring (team project) | Arduino · Python · CAD/Fusion 360 |
+| **MindMesh** *(in progress)* | AI-driven journaling app using sentiment tracking + UX heuristics | Python · OpenAI API · Firebase |
+
+---
+
+### 🌈 What Drives Me
+
+- 🤖 **AI-Driven UX:** designing ethical interfaces that learn with empathy  
+- ☁️ **Automation:** turning complex workflows into one-click experiences  
+- 🧭 **Human Systems Thinking:** studying how people and tech evolve together  
+- 💬 **Communication:** translating between engineers, designers, and executives seamlessly  
+
+🖤 I’m obsessed with **efficiency, fairness, and creativity** — whether I’m building a data pipeline or a community.
+
+---
+
+### 🎯 Career Vision
+
+My goal is to merge **technical leadership + human-centered design** to create scalable systems that actually make life easier.  
+Short-term: Prod
