@@ -13,8 +13,8 @@ Hey hey — I’m **Kiara McRae**, a UX-minded technologist, creative strategist
 I thrive where **design, automation, and leadership** intersect — crafting experiences that are intuitive, scalable, and a little bit magical.
 
 I’m currently pursuing a **dual degree path** in:
-- 🎓 **B.S. Human Systems Engineering (UX)** · Arizona State University  
-- 💻 **B.S. Computer Science** · Georgia State University  
+- 🎓 **B.S. Human Systems Engineering (UX)** · Arizona State University, 2026  
+- 💻 **B.S. Computer Science** · Georgia State University, 2026
 
 My background as a **Store Manager leading 30+ partners** at Starbucks taught me real-world systems thinking — how people, process, and technology interact daily.  
 Now, I’m translating that into the tech world through **UX design, cloud architecture, and process automation**.
