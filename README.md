@@ -112,6 +112,6 @@ Long-term: Director or Strategist guiding cross-functional tech transformation.
 ---
 
 <p align="center">
-  🖤💻👩🏽‍💻 *Black girl on her M4 building a digital universe one container at a time.*  
+  🖤💻👩🏽‍💻 
 </p>
 
