@@ -13,8 +13,8 @@ Hey hey — I’m **Kiara McRae**, a UX-minded technologist, creative strategist
 I thrive where **design, automation, and leadership** intersect — crafting experiences that are intuitive, scalable, and a little bit magical.
 
 I’m currently pursuing a **dual degree path** in:
-- 🎓 **B.S. Human Systems Engineering (UX)** · Arizona State University, 2026  
-- 💻 **B.S. Computer Science** · Georgia State University, 2026
+- 🎓 **B.S. Human Systems Engineering (UX)** · Arizona State University  
+- 💻 **B.S. Computer Science** · Georgia State University  
 
 My background as a **Store Manager leading 30+ partners** at Starbucks taught me real-world systems thinking — how people, process, and technology interact daily.  
 Now, I’m translating that into the tech world through **UX design, cloud architecture, and process automation**.
@@ -64,4 +64,54 @@ Google Project Management · Six Sigma Green Belt · UiPath Automation Developer
 ### 🎯 Career Vision
 
 My goal is to merge **technical leadership + human-centered design** to create scalable systems that actually make life easier.  
-Short-term: Prod
+Short-term: Product / UX / Automation roles where I can design and deliver.  
+Long-term: Director or Strategist guiding cross-functional tech transformation.
+
+> *“Technology should amplify human potential, not replace it.”*  
+
+---
+
+### ⚡ Tools + Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-black?logo=nextdotjs&style=flat-square" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&style=flat-square" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&style=flat-square" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&style=flat-square" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&style=flat-square" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&style=flat-square" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&style=flat-square" />
+</p>
+
+---
+
+### 🧩 Currently Learning
+
+- 🪄 Frontend animation with Framer Motion  
+- ☁️ Cloud architecture + CI/CD pipelines  
+- 🧠 UX analytics and behavioral modeling  
+- 💬 Advanced AI prompting for creative automation  
+
+---
+
+### 💬 Let’s Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kiarammcrae">
+    <img src="https://img.shields.io/badge/LinkedIn-Kiara%20McRae-blue?logo=linkedin&style=flat-square">
+  </a>
+  <a href="https://aurorakiara.dev">
+    <img src="https://img.shields.io/badge/Portfolio-aurorakiara.dev-purple?logo=safari&style=flat-square">
+  </a>
+  <a href="mailto:kiarammcrae@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Kiara%20McRae-red?logo=gmail&style=flat-square">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  🖤💻👩🏽‍💻 *Black girl on her M4 building a digital universe one container at a time.*  
+</p>
+
